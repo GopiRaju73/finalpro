@@ -7,7 +7,7 @@ IDE: VS-Code
 
 Industry : Health
 
-Project Title : KovidWeb
+Project Title : KovidMedicalWeb
 
 Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Medicine to prevent Kovid pandemic.
 
