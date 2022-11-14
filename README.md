@@ -1,8 +1,23 @@
 # finalpro
-this is my final frt project
+#Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
-## AZURE STATIC WEB LINK IS : https://wonderful-stone-051a1f800.2.azurestaticapps.net/
-## AZURE APP SERVICES https://kovidweb.azurewebsites.net
+Web Technologies used: HTML, CSS, JS.
+
+IDE: VS-Code
+
+Industry : Lifestyle
+
+Project Title : Foodie
+
+Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Food Taken.
+
+Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
+
+Primary Azure Technology : Static Web Apps, App Service
+
+Static Web App URL : https://wonderful-stone-051a1f800.2.azurestaticapps.net
+
+App Services URL : https://kovidweb.azurewebsites.net
 
 ## home  
 
