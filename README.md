@@ -1,8 +1,8 @@
 # finalpro
 this is my final frt project
 
-## AZURE STATICWEB LINK IS : https://wonderful-stone-051a1f800.2.azurestaticapps.net/
-## AZURE APP SERVICES https://kovidweb.azurewebsites.net/
+## AZURE STATIC WEB LINK IS : https://wonderful-stone-051a1f800.2.azurestaticapps.net/
+## AZURE APP SERVICES https://kovidweb.azurewebsites.net
 
 ## home  
 
@@ -15,6 +15,12 @@ this is my final frt project
 ## contact 
 ![Screenshot_20221028_140901](https://user-images.githubusercontent.com/113881914/198544431-a86f0f5a-dfb8-4f51-94e9-300f4d719c1e.png)
 
-## service
+## services
 
-![Screenshot_20221028_140239](https://user-images.githubusercontent.com/113881914/198544627-6e1165b0-76f1-40b0-b3d4-c659fe188a16.png)
+![reso](https://user-images.githubusercontent.com/113881914/201639979-46e9de84-3465-4aef-9f46-8286331af3ff.png)
+
+![staticweb](https://user-images.githubusercontent.com/113881914/201638557-3e8cfa18-2149-4952-bd42-87b52cffbc65.png)
+![app service](https://user-images.githubusercontent.com/113881914/201638738-ff3fa1bc-75c4-448f-976a-774e9210199e.png)
+
+
+
