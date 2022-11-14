@@ -5,13 +5,13 @@ Web Technologies used: HTML, CSS, JS.
 
 IDE: VS-Code
 
-Industry : Lifestyle
+Industry : Health
 
-Project Title : Foodie
+Project Title : KovidWeb
 
-Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Food Taken.
+Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Medicine to prevent Kovid pandemic.
 
-Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
+Project Description : Here i created a web page for the Kovid vaccination slot bookings and Kovid health care center details.
 
 Primary Azure Technology : Static Web Apps, App Service
 
@@ -19,18 +19,18 @@ Static Web App URL : https://wonderful-stone-051a1f800.2.azurestaticapps.net
 
 App Services URL : https://kovidweb.azurewebsites.net
 
-## home  
+## Home  
 
 ![Screenshot_20221028_140159](https://user-images.githubusercontent.com/113881914/198543346-5533b00c-ed55-43ef-baac-8c6a179f1be2.png)
 
-## about
+## About
 
 ![Screenshot_20221028_140831](https://user-images.githubusercontent.com/113881914/198544293-7fdc89a0-2e8a-4f4f-be4e-e519a46f0d62.png)
 
-## contact 
+## Contact 
 ![Screenshot_20221028_140901](https://user-images.githubusercontent.com/113881914/198544431-a86f0f5a-dfb8-4f51-94e9-300f4d719c1e.png)
 
-## services
+## Services
 
 ![reso](https://user-images.githubusercontent.com/113881914/201639979-46e9de84-3465-4aef-9f46-8286331af3ff.png)
 
