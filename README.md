@@ -19,6 +19,12 @@ Static Web App URL : https://wonderful-stone-051a1f800.2.azurestaticapps.net
 
 App Services URL : https://kovidweb.azurewebsites.net
 
+Demo Video : 
+
+https://user-images.githubusercontent.com/113881914/210040335-16ccdd5f-43e6-4ae5-9998-36df48880348.mp4
+
+My Website URL : https://wonderful-stone-051a1f800.2.azurestaticapps.net
+
 ## Home  
 
 ![Screenshot_20221028_140159](https://user-images.githubusercontent.com/113881914/198543346-5533b00c-ed55-43ef-baac-8c6a179f1be2.png)
@@ -30,12 +36,14 @@ App Services URL : https://kovidweb.azurewebsites.net
 ## Contact 
 ![Screenshot_20221028_140901](https://user-images.githubusercontent.com/113881914/198544431-a86f0f5a-dfb8-4f51-94e9-300f4d719c1e.png)
 
-## Services
+## Azue Services Used
 
 ![reso](https://user-images.githubusercontent.com/113881914/201639979-46e9de84-3465-4aef-9f46-8286331af3ff.png)
 
-![staticweb](https://user-images.githubusercontent.com/113881914/201638557-3e8cfa18-2149-4952-bd42-87b52cffbc65.png)
-![app service](https://user-images.githubusercontent.com/113881914/201638738-ff3fa1bc-75c4-448f-976a-774e9210199e.png)
+![Screenshot 2022-12-30 115048](https://user-images.githubusercontent.com/113881914/210040756-6bd2fb0a-bd8f-4df3-99b7-6e91f37479f3.png)
+![Screenshot 2022-12-30 115121](https://user-images.githubusercontent.com/113881914/210040761-a8bace89-840e-4471-8538-292a19886c44.png)
+
+
 
 
 
