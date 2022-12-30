@@ -21,7 +21,7 @@ App Services URL : https://kovidweb.azurewebsites.net
 
 Demo Video : 
 
-https://user-images.githubusercontent.com/113881914/210040335-16ccdd5f-43e6-4ae5-9998-36df48880348.mp4
+https://user-images.githubusercontent.com/113881914/210041318-d9507513-6792-46dc-bcfb-78166f021040.mp4
 
 My Website URL : https://wonderful-stone-051a1f800.2.azurestaticapps.net
 
@@ -42,8 +42,6 @@ My Website URL : https://wonderful-stone-051a1f800.2.azurestaticapps.net
 
 ![Screenshot 2022-12-30 115048](https://user-images.githubusercontent.com/113881914/210040756-6bd2fb0a-bd8f-4df3-99b7-6e91f37479f3.png)
 ![Screenshot 2022-12-30 115121](https://user-images.githubusercontent.com/113881914/210040761-a8bace89-840e-4471-8538-292a19886c44.png)
-
-
 
 
 
